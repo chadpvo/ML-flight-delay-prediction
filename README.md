@@ -11,17 +11,14 @@ The goal is to assist travelers and stakeholders in anticipating disruptions and
 **Key Results:**
 * Winner: **The Feature Token Transformer**.
 
+Huge Credit to Kristen Lin and Amy Steward on leading the heavy data engineering efforts that helped us scale our models
 ---
 
 ## Repository Structure
 
 ```text
 flight-delay-prediction/
-│
-├── EDA/     # Initial data exploration and visualizations
-│
+├── EDA/    
 ├── data-pre-processing-scripts/
-│
 ├── ML-models-notebook/
-│
-└── README.md                  # Project documentation
+└── README.md           
