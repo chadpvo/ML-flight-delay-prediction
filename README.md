@@ -13,6 +13,10 @@ The goal is to assist travelers and stakeholders in anticipating disruptions and
 
 Huge Credit to Kristen Lin and Amy Steward on leading the heavy data engineering efforts that helped us scale our models
 
+Check out Amy's deep dive into the Feature Tokenizer and Transformer models used in this project.
+
+[![Medium](https://img.shields.io/badge/Medium-Read_Article-black?logo=medium)](https://medium.com/@aestew/feature-tokenizer-transformer-model-performance-in-predicting-flight-delays-96126989e133)
+
 ---
 
 ## Repository Structure
