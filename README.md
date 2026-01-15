@@ -18,15 +18,10 @@ The goal is to assist travelers and stakeholders in anticipating disruptions and
 ```text
 flight-delay-prediction/
 │
-├── 📁 EDA/
-│   └── 📄 analysis_v1.ipynb      # Initial data exploration and visualizations
+├── EDA/     # Initial data exploration and visualizations
 │
-├── 📁 data-pre-processing-scripts/
-│   ├── 📄 clean_data.py          # Handling missing values and outliers
-│   └── 📄 feature_eng.py         # Creating weather and temporal features
+├── data-pre-processing-scripts/
 │
-├── 📁 ML-models-notebook/
-│   ├── 📄 model_training.ipynb   # Training and testing different algorithms
-│   └── 📄 evaluation.ipynb       # Confusion matrices and ROC curves
+├── ML-models-notebook/
 │
-└── 📄 README.md                  # Project documentation
+└── README.md                  # Project documentation
