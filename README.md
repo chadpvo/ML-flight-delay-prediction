@@ -12,6 +12,7 @@ The goal is to assist travelers and stakeholders in anticipating disruptions and
 * Winner: **The Feature Token Transformer**.
 
 Huge Credit to Kristen Lin and Amy Steward on leading the heavy data engineering efforts that helped us scale our models
+
 ---
 
 ## Repository Structure
